@@ -62,11 +62,14 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 
 ---
 
+
 <h2 align="center">⚡ What I Do</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="80%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Problem Solving
 
@@ -76,7 +79,7 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 - Algorithmic Thinking
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI Engineering
 
@@ -90,7 +93,7 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🐍 Python Development
 
@@ -100,7 +103,7 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 - AI-Powered Workflows
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🗄️ Database & Web
 
@@ -113,9 +116,13 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 </tr>
 </table>
 
+</div>
+
 ---
 
 <h2 align="center">🛠️ Technical Skills</h2>
+
+<div align="center">
 
 ### Programming Languages
 
@@ -125,24 +132,30 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 
 ### Core Computer Science
 
+<p>
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-0891B2?style=for-the-badge"/>
+</p>
 
 ### AI & Generative AI
 
+<p>
 <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-4169E1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Embeddings-00897B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_Search-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI_Learning-00A98F?style=for-the-badge"/>
+</p>
 
 ### Vector Database & Local LLMs
 
+<p>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=for-the-badge"/>
+</p>
 
 ### Development Tools
 
@@ -152,11 +165,16 @@ I enjoy working with C++, exploring AI systems and building projects that combin
 
 ### Additional Project Technologies
 
+<p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+</p>
+
+</div>
+
 
 ---
 
@@ -234,9 +252,12 @@ A platform designed to connect citizens and city workers through a streamlined g
 
 ---
 
+
 <h2 align="center">🏆 Achievements & Leadership</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="80%">
 <tr>
 <td width="50%" align="center">
 
@@ -279,7 +300,10 @@ B.Tech Computer Engineering
 </tr>
 </table>
 
+</div>
+
 ---
+
 
 
 
