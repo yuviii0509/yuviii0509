@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290" role="img" aria-labelledby="title desc">
+<title id="title">OutreachAI</title><desc id="desc">Better outreach starts with a better draft.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101919"/><stop offset="1" stop-color="#0B1010"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#B7FF5A" stop-opacity=".14"/><stop offset="1" stop-color="#B7FF5A" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#233531" stroke-width=".7" opacity=".45"/></pattern></defs>
+<rect width="1280" height="290" rx="16" fill="url(#bg)"/><rect x=".5" y=".5" width="1279" height="289" rx="16" fill="none" stroke="#284039"/>
+<rect x="690" y="1" width="589" height="288" rx="16" fill="url(#grid)"/><ellipse cx="993" cy="145" rx="305" ry="160" fill="url(#aura)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="48" y="52" fill="#B7FF5A" font-family="Consolas,monospace" font-size="15" letter-spacing="3">02 / PYTHON + WORKFLOWS</text>
+<text x="43" y="158" fill="#EFF5E9" font-size="77" font-weight="700" letter-spacing="-4">OutreachAI</text>
+<text x="48" y="200" fill="#9BAEA5" font-size="22">Better outreach starts with a better draft.</text>
+<path d="M48 240H110" stroke="#B7FF5A" stroke-width="3"/><text x="126" y="245" fill="#9BAEA5" font-size="13" letter-spacing="2">BUILT TO UNDERSTAND. BUILT TO WORK.</text></g>
+<g transform="translate(775 44)"><path d="M20 104H450" stroke="#416453" stroke-width="2" stroke-dasharray="4 7"/>
+<g transform="translate(0 26)"><rect width="130" height="156" rx="14" fill="#17251D" stroke="#3F6650"/><path d="M24 31H91M24 54H104M24 77H75" stroke="#718D77" stroke-width="5" stroke-linecap="round"/><circle cx="102" cy="126" r="13" fill="#B7FF5A"/><path d="M96 126L101 131L110 120" fill="none" stroke="#142012" stroke-width="3"/></g>
+<g transform="translate(164 9)"><rect width="130" height="156" rx="14" fill="#17251D" stroke="#74A365"/><path d="M24 32H99M24 55H84M24 78H101" stroke="#92AF8E" stroke-width="5" stroke-linecap="round"/><path d="M59 111L63 124L76 128L63 132L59 145L55 132L42 128L55 124Z" fill="#B7FF5A"/></g>
+<g transform="translate(328 26)"><rect width="130" height="156" rx="14" fill="#17251D" stroke="#3F6650"/><path d="M24 31H91M24 54H104M24 77H75" stroke="#718D77" stroke-width="5" stroke-linecap="round"/><rect x="24" y="115" width="80" height="20" rx="10" fill="#B7FF5A" fill-opacity=".8"/></g>
+<text x="3" y="218" fill="#79977C" font-family="Consolas,monospace" font-size="13" letter-spacing="1">CONTACTS   →   DRAFTS   →   REVIEW</text></g></svg>

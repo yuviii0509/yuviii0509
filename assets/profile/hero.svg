@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="580" viewBox="0 0 1280 580" role="img" aria-labelledby="title desc">
+  <title id="title">Yuvraj Singh — software, AI and systems</title>
+  <desc id="desc">Yuvraj Singh. Building the systems behind intelligent software. C++, Python and Generative AI. Pune, India. A luminous green orbital field rotates beside his name.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1010"/>
+      <stop offset=".62" stop-color="#0B1010"/>
+      <stop offset="1" stop-color="#14201B"/>
+    </linearGradient>
+    <radialGradient id="field">
+      <stop offset="0" stop-color="#00E5A0" stop-opacity=".13"/>
+      <stop offset=".48" stop-color="#00E5A0" stop-opacity=".065"/>
+      <stop offset="1" stop-color="#00E5A0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B7FF5A"/>
+      <stop offset=".52" stop-color="#00E5A0"/>
+      <stop offset="1" stop-color="#00E5A0" stop-opacity=".16"/>
+    </linearGradient>
+    <linearGradient id="latitude" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00E5A0" stop-opacity=".08"/>
+      <stop offset=".5" stop-color="#A6CDB7" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#00E5A0" stop-opacity=".08"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ACC4B4" stroke-width=".5" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <clipPath id="art-area"><rect x="718" y="76" width="516" height="410"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:Consolas,Menlo,monospace}
+    .orbit{animation:rotate 28s linear infinite;transform-origin:982px 270px}
+    .orbit-back{animation:reverse-rotate 38s linear infinite;transform-origin:982px 270px}
+    .signal{animation:signal 3.6s ease-in-out infinite}
+    .trace{animation:trace 12s linear infinite}
+    @keyframes rotate{to{transform:rotate(360deg)}}
+    @keyframes reverse-rotate{to{transform:rotate(-360deg)}}
+    @keyframes signal{0%,100%{opacity:.45}50%{opacity:1}}
+    @keyframes trace{to{stroke-dashoffset:-220}}
+    @media(prefers-reduced-motion:reduce){.orbit,.orbit-back,.signal,.trace{animation:none}}
+  </style>
+
+  <rect width="1280" height="580" rx="18" fill="url(#canvas)"/>
+  <rect x="1" y="1" width="1278" height="578" rx="17" fill="url(#grid)" stroke="#24342B" stroke-width="1"/>
+  <path d="M64 104V76H92M1188 76H1216V104M64 447V470H92M1216 447V470H1188" fill="none" stroke="#657C6D" stroke-width="1" stroke-opacity=".45"/>
+
+  <circle cx="72" cy="49" r="4" fill="#B7FF5A" class="signal"/>
+  <text class="mono" x="87" y="54" fill="#AABBAF" font-size="13" letter-spacing="2.2">SOFTWARE / AI / SYSTEMS</text>
+  <text class="mono" x="1215" y="54" text-anchor="end" fill="#6B8375" font-size="12" letter-spacing="1.5">YUVIII0509</text>
+
+  <g clip-path="url(#art-area)">
+    <circle cx="982" cy="270" r="237" fill="url(#field)"/>
+    <path d="M718 445H1236M742 415H1212M775 388H1185M816 365H1163M852 345H1112" fill="none" stroke="#738C7C" stroke-opacity=".09"/>
+    <path d="M742 465L982 312L1223 465M797 465L982 312L1168 465M861 465L982 312L1105 465M924 465L982 312L1041 465" fill="none" stroke="#738C7C" stroke-opacity=".09"/>
+    <path d="M735 270H1229M982 79V465" fill="none" stroke="#789A84" stroke-width="1" stroke-opacity=".12" stroke-dasharray="3 9"/>
+
+    <ellipse cx="982" cy="270" rx="174" ry="174" fill="none" stroke="#698978" stroke-opacity=".46"/>
+    <ellipse cx="982" cy="270" rx="138" ry="174" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <ellipse cx="982" cy="270" rx="90" ry="174" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <ellipse cx="982" cy="270" rx="31" ry="174" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <ellipse cx="982" cy="270" rx="174" ry="135" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <ellipse cx="982" cy="270" rx="174" ry="84" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <ellipse cx="982" cy="270" rx="174" ry="28" fill="none" stroke="url(#latitude)" stroke-width=".8"/>
+    <path d="M809 270H1155M982 97V443" fill="none" stroke="#8EB29A" stroke-width=".7" stroke-opacity=".3"/>
+
+    <g transform="rotate(-25 982 270)">
+      <ellipse cx="982" cy="270" rx="235" ry="72" fill="none" stroke="#00E5A0" stroke-width="8" stroke-opacity=".12" filter="url(#glow)"/>
+      <ellipse cx="982" cy="270" rx="235" ry="72" fill="none" stroke="#607868" stroke-width=".8" stroke-opacity=".55"/>
+      <path d="M747 270C747 309.8 852.2 342 982 342S1217 309.8 1217 270" fill="none" stroke="url(#arc)" stroke-width="2.5"/>
+      <circle cx="1217" cy="270" r="4.5" fill="#B7FF5A"/>
+    </g>
+    <g class="orbit">
+      <circle cx="982" cy="270" r="191" fill="none" stroke="#00E5A0" stroke-width=".9" stroke-opacity=".27" stroke-dasharray="2 10"/>
+      <path d="M1092 114A191 191 0 0 1 1173 270" fill="none" stroke="url(#arc)" stroke-width="2"/>
+      <circle cx="1092" cy="114" r="5" fill="#00E5A0"/>
+      <circle cx="815" cy="363" r="3.4" fill="#B7FF5A"/>
+    </g>
+    <g class="orbit-back">
+      <ellipse cx="982" cy="270" rx="209" ry="140" fill="none" stroke="#B7FF5A" stroke-width=".8" stroke-opacity=".26" transform="rotate(47 982 270)"/>
+      <circle cx="1125" cy="395" r="3.8" fill="#B7FF5A"/>
+    </g>
+
+    <g fill="none" stroke="#00E5A0" stroke-width="1" stroke-opacity=".48">
+      <path class="trace" stroke-dasharray="3 7" d="M887 165L946 221L1050 216L1091 319L1002 368L902 326L946 221L1002 368M887 165L1050 216M902 326L1091 319"/>
+    </g>
+    <g fill="#00E5A0">
+      <circle cx="887" cy="165" r="3"/><circle cx="946" cy="221" r="3.6"/>
+      <circle cx="1050" cy="216" r="3"/><circle cx="1091" cy="319" r="3"/>
+      <circle cx="1002" cy="368" r="3"/><circle cx="902" cy="326" r="3"/>
+    </g>
+    <circle cx="982" cy="270" r="38" fill="#00E5A0" fill-opacity=".07" filter="url(#soft)"/>
+    <circle cx="982" cy="270" r="7" fill="#B7FF5A" filter="url(#glow)" opacity=".7"/>
+    <circle cx="982" cy="270" r="3.5" fill="#B7FF5A"/>
+
+    <path d="M858 157H822L802 137" fill="none" stroke="#6E8E7C" stroke-width=".8"/>
+    <text class="mono" x="755" y="129" font-size="10" letter-spacing="1.4" fill="#8DA897">IDEAS → SYSTEMS</text>
+    <path d="M1110 387H1143L1162 407" fill="none" stroke="#6E8E7C" stroke-width=".8"/>
+    <text class="mono" x="1158" y="426" font-size="9" letter-spacing="1.5" text-anchor="end" fill="#8DA897">ALWAYS IN MOTION</text>
+  </g>
+
+  <text class="sans" x="62" y="217" font-size="117" font-weight="700" letter-spacing="-6" fill="#EFF5E9">YUVRAJ</text>
+  <text class="sans" x="62" y="328" font-size="117" font-weight="700" letter-spacing="-6" fill="#00E5A0">SINGH<tspan fill="#B7FF5A">.</tspan></text>
+  <text class="sans" x="68" y="388" font-size="24" fill="#D3DED1">Building the systems behind</text>
+  <text class="sans" x="68" y="421" font-size="24" fill="#D3DED1">intelligent software.</text>
+  <text class="mono" x="982" y="468" text-anchor="middle" fill="#94A99B" font-size="12" letter-spacing="1.3">&lt; BUILD / LEARN / REPEAT &gt;</text>
+
+  <path d="M64 502H1216" fill="none" stroke="#304137" stroke-width="1"/>
+  <text class="mono" x="68" y="542" font-size="14" letter-spacing="1.1" fill="#C0D0C3">C++ + PYTHON</text>
+  <path d="M241 529V543" fill="none" stroke="#425749"/>
+  <text class="mono" x="265" y="542" font-size="14" letter-spacing="1.1" fill="#C0D0C3">GENERATIVE AI</text>
+  <text class="mono" x="1214" y="542" text-anchor="end" font-size="13" letter-spacing="1.4" fill="#A4BCA9">PUNE, INDIA ↗</text>
+</svg>
