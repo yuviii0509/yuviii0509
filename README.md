@@ -367,6 +367,20 @@ B.Tech Computer Engineering
 
 ---
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake.svg" width="95%" alt="Animated snake eating my GitHub contribution squares" />
+</picture>
+
+</div>
+
+---
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
