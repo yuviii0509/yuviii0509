@@ -371,10 +371,12 @@ B.Tech Computer Engineering
 
 <div align="center">
 
+<p>My GitHub contribution calendar, animated and automatically refreshed every 30 minutes.</p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake.svg" width="95%" alt="Animated snake eating my GitHub contribution squares" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake-live-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake-live.svg" />
+  <img src="https://raw.githubusercontent.com/yuviii0509/yuviii0509/output/github-snake-live.svg" width="95%" alt="Animated snake eating my GitHub contribution squares" />
 </picture>
 
 </div>
