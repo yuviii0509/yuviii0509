@@ -1,48 +1,13 @@
 {
-  "generated_at": "2026-11-21T20:08:54.644183+00:00",
+  "generated_at": "2026-11-22T00:23:31.188830+00:00",
   "source": "public GitHub contribution calendar",
   "total_contributions": 236,
   "active_days": 68,
-  "calendar_days": 371,
-  "from": "2025-11-16",
-  "to": "2026-11-21",
+  "calendar_days": 365,
+  "from": "2025-11-23",
+  "to": "2026-11-22",
   "warnings": [],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -1862,6 +1827,11 @@
       "date": "2026-11-21",
       "count": 2,
       "level": 1
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0,
+      "level": 0
     }
   ]
 }
